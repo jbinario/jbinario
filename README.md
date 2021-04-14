@@ -3,6 +3,7 @@
 - 😃 My name is Jelson, I am recently graduated in IT management and I am currently studying database technology.
 - 🌱 I am currently looking for new lessons in web development (HTML, CSS, JAVASCRIPT).
 
+![Jelson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jelson&show_icons=true)
 
 🌎 Onde me Encontrar:
 
