@@ -6,7 +6,7 @@
 
 ![jbinario GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbinario&show_icons=true)
 
-🌎 Onde me Encontrar:
+🌎 where to find me:
 
 <a target="_blank" href="https://www.linkedin.com/in/jelsonalves/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
