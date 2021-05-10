@@ -1,7 +1,8 @@
 ## Hello guys! 👋
 
-- 😃 My name is Jelson, I am recently graduated in IT management and I am currently studying database technology.
-- 🌱 I am currently looking for new lessons in web development (HTML, CSS, JAVASCRIPT).
+- 😃 My name is Jelson.
+- 📚 I am graduated in IT management and I am currently studying database technology and web development (HTML, CSS, JAVASCRIPT).
+
 
 ![jbinario GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbinario&show_icons=true)
 
